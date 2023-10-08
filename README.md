@@ -12,6 +12,10 @@ I contributed to this project by adding my information
 #BISHIR ABUBAKAR DAYYABU - NAS/STE/20/2033
 I contributed to this project by adding my information
 
+
+#ABDULLAHI KABIR SIDI - NAS/STE/19/1179
+I contributed to this project by adding my information
+
 #ADAM SANI LAWAL - NAS/STE/20/2056
 I contributed to this project by adding my details
 
