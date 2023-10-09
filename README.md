@@ -22,7 +22,8 @@ I contributed to this project by adding my details
 #SALAMIN SALISU MASHI - NAS/STE/19/1225
 I contributed to this project by adding my details
 
-# ABUBAKR KABIR SHEHU
+#ABUBAKR KABIR SHEHU
 I contributed to the project as well by adding my details
-# Abdulkadir Masud - NAS/STE/19/1172
+
+#Abdulkadir Masud - NAS/STE/19/1172
 I contributed on adding my details to the project
